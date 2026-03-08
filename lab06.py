@@ -211,7 +211,7 @@ def crypt_menu(selection):
 
 def show_table():
     """Displays a Vigenere square based on user-inputted alphabet."""
-    DEFAULT_ALPHABET = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ '
+    DEFAULT_ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ '
 
     clear_terminal()
 
